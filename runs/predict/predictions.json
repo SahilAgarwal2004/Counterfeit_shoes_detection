@@ -1,0 +1,29 @@
+[
+  {
+    "image": "data/test/images/0024_jpg.rf.6ba8a119fe904a5278cd12fb0650b47e.jpg",
+    "predictions": [
+      {
+        "class": "nike fake air force",
+        "confidence": 0.8526968955993652,
+        "bbox": [
+          5.7056884765625,
+          3.79705810546875,
+          621.0848388671875,
+          458.5769958496094
+        ]
+      },
+      {
+        "class": "nike fake air force",
+        "confidence": 0.7027186155319214,
+        "bbox": [
+          4.99981689453125,
+          131.41827392578125,
+          528.4409790039062,
+          528.710693359375
+        ]
+      }
+    ],
+    "final_label": "nike fake air force",
+    "final_confidence": 0.8526968955993652
+  }
+]
